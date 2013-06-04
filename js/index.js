@@ -1,3 +1,5 @@
 $(document).ready(function(){
-	console.info("Hullo!")
+	console.info("Hullo!");
+
+	$("#importNavigation").load("./nav.html");
 });
